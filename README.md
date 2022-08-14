@@ -1,7 +1,7 @@
 ### Olá, Eu sou o João Vitor.
 
 - 💬 Busco Iniciar a carreira como um front-end
-- 💬 At ualmente estou estudando HTML,CSS,JS e React para ter uma boa base
+- 💬 Atualmente estou estudando HTML,CSS,JS e React para ter uma boa base
 - 💬 Pronome: ele/dele
 
 <div align="center">
